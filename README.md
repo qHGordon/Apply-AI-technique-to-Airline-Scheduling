@@ -1,1 +1,1 @@
-# Apply-AI-technique-to-Among-Us
+# Apply-AI-technique-to-Airline-Scheduling
