@@ -1,4 +1,6 @@
 # Apply-AI-technique-to-Airline-Scheduling
+## Proplem Setting
+### With the mega storm last Christmas, there was a cascade of flights cancelled -- thousands! How would you figure out what the planes and flight crews should do, given the uncertain nature of air travel?
 ## Constraint Programming
 ### The variables in this scenario could be the flight schedules, the flight crews, and the planes. 
 ### The domains of the variables could be the possible flight schedules, the flight crews available, and the planes available. 
